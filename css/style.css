@@ -1,0 +1,108 @@
+
+
+
+.well{
+    background-color: #87509c;
+    color: white;
+    outline: #ffdd99;
+    
+}
+
+.nav-item>.nav-link{
+    color: white;
+}
+.nav-item{
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.nav-item:hover{
+    background-color: #643a79;
+    color: #e7f1f8;
+    border-radius: 4px;
+    transition: 2s;
+}
+.but{
+    background-color: #eb7d4b;
+    color: aliceblue;
+    padding: 10px 40px;
+    
+}
+.service{
+   background-color: #17c2a4;
+   color: white;
+}
+
+#mahir{
+    background-color:#e7f1f8;
+}
+
+.leatewrsa{
+    letter-spacing: 7px;
+}
+.skill{
+   background-color: #ffffff;
+}
+.our{
+    background-color: #ffdd99;
+}
+.bbb>.btn{
+    background-color: #ebc985;
+    padding: 5px 25px ;
+    margin: 0px 5px;ss
+}
+.bbb>.btn:hover{
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+#qqq{
+    letter-spacing: 8px;
+}
+.amm>.btn{
+    background-color: #17c2a4;
+    padding: 15px 30px;
+    color: #ffff;
+}
+.amm>.btn:hover{
+    background-color: #17c2a4;
+    color: darkcyan;
+}
+.about{
+    background-color: #d74680;
+    color: white;
+}
+.las{
+    letter-spacing: 2px;
+}
+.seemeet{
+    background-color: #3c5499;
+    
+}
+
+.touch{
+  background-color: #344b8e;
+}
+.wppp{
+    height: 2px;
+    width: 50px;
+    background-color: #c8d9e5;
+    margin: 3px 0px;
+
+}
+.ismail{
+    background-color: #273a71;
+    outline: #273a71;
+    
+}
+.babu{
+   
+    padding-left: 200px;
+    padding-right: 200px;
+
+}
+.www{
+    padding: 10px 40px;
+    background-color: #30bae7;
+    color: white;
+   
+    border: none !important;
+}
